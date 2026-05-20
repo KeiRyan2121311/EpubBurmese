@@ -1,0 +1,5 @@
+python-telegram-bot==21.6
+google-genai
+EbookLib
+beautifulsoup4
+lxml
